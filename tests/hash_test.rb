@@ -9,7 +9,7 @@ describe "Hash" do
 
     # change the assertion to true
     it "tests logic" do
-      assert false
+      assert true
     end
 
     # assign to `value` variable
